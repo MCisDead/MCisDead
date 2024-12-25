@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I like Machine Learning and Data Science
+I want to make a cool game some day
 
 <!--
 **MCisDead/MCisDead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
